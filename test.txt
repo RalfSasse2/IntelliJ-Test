@@ -1,0 +1,2 @@
+# test.txt
+# (außerhalb von IntelliJ angelegt)
