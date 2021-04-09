@@ -2,3 +2,4 @@
 # (außerhalb von IntelliJ angelegt)
 # Erste Änderung von Contributor RalfSasse
 # Erste Änderung von RalfSasse2
+# Zweite Änderung von RalfSasse2
