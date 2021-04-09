@@ -1,3 +1,4 @@
 # test.txt
 # (außerhalb von IntelliJ angelegt)
 # Erste Änderung von Contributor RalfSasse
+# Erste Änderung von RalfSasse2
